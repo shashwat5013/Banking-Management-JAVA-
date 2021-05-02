@@ -1,0 +1,11 @@
+sector62	 28.6208        77.4678
+sector64	 28.6119        77.3762
+sector63 	 29		77
+atmsector62      31		78
+atmsector63	 32		78
+sector65 	26		77.98
+sector66	 30		77.89
+sector67 	28.73		77.95
+sector122 	31.02		79.025
+sector99	17.03		77.23
+atmsector99	17.98		77.57
